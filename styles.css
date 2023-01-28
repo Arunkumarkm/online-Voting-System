@@ -1,0 +1,158 @@
+.body {
+    background-color: #013605;
+}
+
+.carousel-caption h1 {
+    color: orangered;
+    text-transform: uppercase;
+    width: 200px;
+    background-color: aliceblue;
+}
+
+.carousel-inner {
+    text-align: center;
+    background-color: #d0d6d4;
+}
+
+.form-group label {
+    font-weight: bold;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+.form-group input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid black;
+    padding-top: 10px;
+}
+
+#login {
+    margin-left: 20px;
+}
+
+#reg {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 4px 4px 4px 4px;
+    margin-left: 20px;
+}
+
+#reg:hover {
+    background-color: black;
+    color: white;
+}
+
+.home h5 {
+    font-weight: bold;
+    color: white;
+    font-size: 50px;
+}
+
+.home img {
+    text-align: center;
+}
+
+.heading-login h1 {
+    color: white;
+    text-align: center;
+}
+
+.heading-login h2 {
+    color: white;
+    text-align: center;
+}
+
+.regform {
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.usrreg1 h6 {
+    color: orangered;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#reg2 {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 4px 4px 4px 4px;
+    margin-left: 20px;
+    background-color: orangered;
+    color: white;
+}
+
+#reg2:hover {
+    background-color: black;
+}
+
+.election {
+    color: mediumslateblue;
+    text-align: center;
+}
+
+#addform {
+    background-color: dodgerblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#add {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 4px 10px 4px 10px;
+    margin-left: 20px;
+}
+
+.candidate {
+    color: goldenrod;
+    text-align: center;
+}
+
+.addcandidate {
+    background-color: lightslategrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#submit4 {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 4px 10px 4px 10px;
+    margin-left: 20px;
+}
+
+.heading1 h2 {
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+
+.table {
+    background-color: bisque;
+}
+
+#table1 {
+    background-color: lightgreen;
+    color: red;
+}
+
+.card p {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+
+.card-body a {
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+
+.card-body a:hover {
+    color: red;
+}
